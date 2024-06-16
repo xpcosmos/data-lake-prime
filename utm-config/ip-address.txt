@@ -1,0 +1,6 @@
+
+# run command 'ip addr show' to show the ip addresses
+
+hdpsmaster 192.168.0.182
+hdpslv1 192.168.0.162
+hdpslv2 192.168.0.178
