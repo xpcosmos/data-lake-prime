@@ -1,0 +1,19 @@
+# Loopback entries; do not change.
+# For historical reasons, localhost precedes localhost.localdomain:
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+
+###
+## Add the node ip address and the name of the node
+## For example, in the Master Node:
+##   192.168.0.XXX worker1
+##   192.168.0.YYY worker2
+##
+## The same logic applies to the workers. To the worker1,
+## the file should look like this:
+##   192.168.0.XXX namenode
+##   192.168.0.YYY worker2
+
+
+# Set Host Name and IP here
+
