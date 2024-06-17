@@ -36,6 +36,7 @@ A `wget` function was used to test the server's capabilities to get and store in
   - [Contact](#contact)
 
 
+
 ## Introduction
 
 This project aims to simulate and configure a Distributed File System using Hadoop HDFS, employing a setup with 1 Master Node and 2 Worker Nodes. The setup is virtualized using UTM software on Fedora 40 Server distribution.
